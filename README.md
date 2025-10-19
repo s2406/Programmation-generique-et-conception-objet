@@ -1,6 +1,7 @@
 # Programmation-generique-et-conception-objet
 
 Bonjour ou bonsoir à tous,
+
 Ce dépôt contient une collection d'exercices réalisés dans le cadre de mes cours d’informatique et de bases de données à l’université. Les programmes sont écrits en C++ et couvrent différents concepts fondamentaux du langage, ainsi que des notions avancées.
 Prérequis
 Pour exécuter ces projets, vous aurez besoin de :
@@ -9,6 +10,7 @@ Un IDE compatible C++ (Visual Studio, CLion, Code::Blocks ou Eclipse CDT recomma
 
 
 Hello everyone,
+
 This repository contains a collection of exercises completed as part of my Computer Science and Databases courses at university. The programs are written in C++ and cover various fundamental concepts of the language, as well as some advanced topics.
 Prerequisites
 To run these projects, you will need:
