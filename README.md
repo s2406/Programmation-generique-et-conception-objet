@@ -9,6 +9,14 @@ Un compilateur C++ compatible C++17 ou supérieur (par exemple GCC, Clang ou MSV
 Un IDE compatible C++ (Visual Studio, CLion, Code::Blocks ou Eclipse CDT recommandé). Pour ma part, j’ai utilisé Visual Studio pour ce travail.
 
 
+
+
+
+
+
+
+
+
 Hello everyone,
 
 This repository contains a collection of exercises completed as part of my Computer Science and Databases courses at university. The programs are written in C++ and cover various fundamental concepts of the language, as well as some advanced topics.
