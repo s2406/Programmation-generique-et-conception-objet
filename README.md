@@ -7,9 +7,19 @@ Ce dépôt contient une collection d'exercices réalisés dans le cadre de mes c
 
 
 Prérequis
+
 Pour exécuter ces projets, vous aurez besoin de :
 Un compilateur C++ compatible C++17 ou supérieur (par exemple GCC, Clang ou MSVC)
 Un IDE compatible C++ (Visual Studio, CLion, Code::Blocks ou Eclipse CDT recommandé). Pour ma part, j’ai utilisé Visual Studio pour ce travail.
+
+
+
+
+
+
+
+
+
 
 
 
